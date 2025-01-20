@@ -1,0 +1,3 @@
+.progressList::-webkit-scrollbar {
+    display: none; 
+}

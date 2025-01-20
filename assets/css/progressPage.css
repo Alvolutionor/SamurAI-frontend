@@ -1,0 +1,10 @@
+.fileList::-webkit-scrollbar {
+    display: none; 
+}
+
+.downlaodLink:hover{
+    text-decoration: none;
+}
+.viewOnlineButton:hover{
+ cursor: pointer;
+}
